@@ -7,7 +7,7 @@ const Header = () => {
       <nav className="navbar navbar-expand-lg bg-primary">
         <div className="container-fluid">
           <a className="navbar-brand" href="/">
-            Navbar
+            Student Management
           </a>
           <button
             className="navbar-toggler"
